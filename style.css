@@ -1,0 +1,15 @@
+/* Authored by Corey Talbert, January 2023 */
+body {
+    background-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #FFF;
+}
+#canvas{
+    background-color: transparent;
+    border: 0px solid black;
+    position: relative;
+}
+
+a{
+    color:darkseagreen
+}
